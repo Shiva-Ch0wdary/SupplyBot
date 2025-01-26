@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langgraph
+transformers
+torch
+psycopg2-binary
+SQLAlchemy
+pydantic
+python-multipart
+passlib[bcrypt]
+python-jose
+psycopg2
